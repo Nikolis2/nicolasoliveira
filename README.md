@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! My name is Nicolas OLiveira </h2>
+<h2 align="left">Olá 👋! My name is Nicolas OLiveira Bueno </h2>
 
 ###
 
