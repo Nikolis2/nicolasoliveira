@@ -1,7 +1,11 @@
 <h2 align="left">Olá 👋! My name is Nicolas OLiveira Bueno </h2>
 
 ###
+Nicolas Oliveira Bueno é um desenvolvedor que traz paixão e criatividade ao mundo da tecnologia. Com um olhar atento para a solução de problemas, ele se dedica a transformar ideias em realidade por meio de linhas de código. Nicolas é conhecido por sua dedicação em aprender constantemente e por sua habilidade de colaborar em equipe, impulsionando projetos inovadores e entregando resultados com excelência. Seja em programação ou em desenvolvimento de software, Nicolas Oliveira Bueno representa a essência de um profissional comprometido e visionário.
 
+
+
+###
 <div align="center">
   <a href:"https://github.com/Nikolis2>
   <img src="https://github-readme-stats.vercel.app/api?username=Nikolis2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
